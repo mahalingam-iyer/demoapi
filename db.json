@@ -1,13 +1,20 @@
-[{
-  "username": "dave",
-  "password": "dave123!@#"  
-},{
-  "username": "john",
-  "password": "john123!@#"  
-},{
-  "username": "mac",
-  "password": "mac123!@#"  
-},{
-  "username": "jeff",
-  "password": "jeff123!@#"  
-}]
+{
+    "users": [
+        {
+            "username": "dave",
+            "password": "dave123!@#"
+        },
+        {
+            "username": "john",
+            "password": "john123!@#"
+        },
+        {
+            "username": "mac",
+            "password": "mac123!@#"
+        },
+        {
+            "username": "jeff",
+            "password": "jeff123!@#"
+        }
+    ]
+}
